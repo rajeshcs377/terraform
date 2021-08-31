@@ -1,0 +1,3 @@
+variable "keyname" {
+  type = string
+}
